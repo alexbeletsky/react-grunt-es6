@@ -11,8 +11,10 @@ $ npm install
 $ grunt start:dev
 ```
 
-## Browserify
+## Browserify plugins
 
+* [babelify](https://github.com/babel/babelify) - ES6 to ES5 transform function.
+* [reactify](https://github.com/andreypopp/reactify) - JSX transform function.
 
 ## License
 
