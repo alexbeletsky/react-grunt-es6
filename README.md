@@ -8,7 +8,7 @@ Install dependencies and start,
 
 ```bash
 $ npm install
-$ grunt start:dev
+$ grunt start
 ```
 
 ## Browserify plugins
