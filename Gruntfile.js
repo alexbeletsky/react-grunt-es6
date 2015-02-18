@@ -9,9 +9,6 @@ module.exports = function (grunt) {
 					'build/app.js': ['js/app.jsx']
 				},
 				options: {
-					browserifyOptions: {
-						debug: true
-					},
 					transform: [
 						'babelify', 'reactify'
 					]
